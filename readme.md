@@ -19,7 +19,7 @@ Os médicos gerados representam **alunos da Turma 5**.
 - Geração aleatória de:
   - Nome completo
   - Data de nascimento
-  - Endereço (ruas fictícias com nomes criativos)
+  - Endereço (ruas fictícias com nomes dos 20 projetos DemoDay 1° Semestre- 2025)
   - Telefone
   - E-mail
   - CPF (com pontuação)
