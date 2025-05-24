@@ -50,7 +50,8 @@ function gerarEspecialidade() {
     "Cardiologia", "Pediatria", "Dermatologia", "Ortopedia", "Ginecologia",
     "Neurologia", "Psiquiatria", "Endocrinologia", "Oncologia", "Reumatologia",
     "Urologia", "Nefrologia", "Otorrinolaringologia", "Hematologia", "Imunologia",
-    "Infectologia", "Radiologia", "Anestesiologia", "Cirurgia Geral", "Patologia"
+    "Infectologia", "Radiologia", "Anestesiologia", "Cirurgia Geral", "Patologia",
+    "Clínica Geral", "Gastrenterologia"
   ];
   return especialidades[Math.floor(Math.random() * especialidades.length)];
 }
