@@ -40,8 +40,10 @@ Os enfermeiros foram inseridos como **gestores do PROA**. Os nomes utilizados re
 - Geração dinâmica com variáveis e aleatoriedade
 
 ## 📦 Como usar
-Você pode copiar e colar o código JavaScript em seu console de navegador, editor como VS Code, ou integrá-lo a um sistema web para popular dados fictícios automaticamente.
-
+Você pode copiar e colar o código JavaScript em seu console de navegador, editor como VS Code, fork ou simplesmente usar o códgio no seu console da IDE de sua preferência 
+```bash
+git clone https://github.com/WillDeev/GeradorDeNomes.git
+```
 ---
 
 Este projeto é educativo, e os dados gerados são **totalmente fictícios**.  
